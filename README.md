@@ -1,6 +1,8 @@
 # Predicting-Bike-Sharing
 For this project, I built my first neural network and used it to predict daily bike rental ridership. 
 ==========================================
+
+
 Bike Sharing Dataset
 ==========================================
 
@@ -12,7 +14,7 @@ Rua Dr. Roberto Frias, 378
 4200 - 465 Porto, Portugal
 
 
-=========================================
+
 Background 
 =========================================
 
@@ -28,7 +30,7 @@ of travel, departure and arrival position is explicitly recorded in these system
 a virtual sensor network that can be used for sensing mobility in the city. Hence, it is expected that most of important
 events in the city could be detected via monitoring these data.
 
-=========================================
+
 Data Set
 =========================================
 Bike-sharing rental process is highly correlated to the environmental and seasonal settings. For instance, weather conditions,
@@ -37,7 +39,7 @@ the two-year historical log corresponding to years 2011 and 2012 from Capital Bi
 publicly available in http://capitalbikeshare.com/system-data. We aggregated the data on two hourly and daily basis and then 
 extracted and added the corresponding weather and seasonal information. Weather information are extracted from http://www.freemeteo.com. 
 
-=========================================
+
 Associated tasks
 =========================================
 
@@ -50,7 +52,7 @@ Associated tasks
 		identified in [1]. Therefore the data can be used for validation of anomaly or event detection algorithms as well.
 
 
-=========================================
+
 Files
 =========================================
 
@@ -86,7 +88,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
 	
-=========================================
+
 License
 =========================================
 Use of this dataset in publications must be cited to the following publication:
@@ -106,7 +108,7 @@ Use of this dataset in publications must be cited to the following publication:
 	pages={1-15}
 }
 
-=========================================
+
 Contact
 =========================================
 	
